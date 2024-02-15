@@ -42,4 +42,4 @@ Install dependencies using `pip install -r requirements.txt`.
 
 ## Credits
 
-Developed by Jadhav Avinash
+Developed by Siva tej varma
